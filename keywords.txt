@@ -1,0 +1,6 @@
+MPL115A1_Arduino	KEYWORD1
+init	KEYWORD2
+power	KEYWORD2
+register_access	KEYWORD2
+pressure_acquisition	KEYWORD2
+coefficient_acquisition	KEYWORD2
